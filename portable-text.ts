@@ -1,4 +1,5 @@
 // sfl-portable-text
+// 0.1.0
 //
 // convert a portable text array to a structure that's closer to prosemirror's,
 // JSON format which is far easier to render using simple recursive traversal
